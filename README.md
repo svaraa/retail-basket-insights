@@ -1,4 +1,4 @@
-# 📊 Retail Basket Insights — Market Basket Analysis & Power BI Dashboards
+# 📊 Retail Basket Insights - Market Basket Analysis & Power BI Dashboards
 
 A complete end-to-end retail analytics project combining **data cleaning, market basket analysis (Apriori), association rule mining, and interactive Power BI dashboards** to uncover revenue drivers and buying patterns using the UCI Online Retail dataset.
 
@@ -129,12 +129,3 @@ Includes:
 | **Jupyter Notebook** | EDA & rule generation |
 | **Power BI** | Dashboards & storytelling |
 | **GitHub** | Version control & documentation |
-
----
-
-🌟 Why This Project Stands Out
-- Shows complete data analytics lifecycle
-- Demonstrates business-first insights
-- Includes market basket analysis, a highly relevant retail technique
-- Provides executive-level dashboards and technical analysis
-- Professional GitHub structure and storytelling
