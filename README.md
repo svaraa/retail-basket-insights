@@ -48,16 +48,16 @@ retail-basket-insights/
 ## 📌 2. Product Performance
 Top-selling products (by revenue):
 
-- **Paper Craft Little Birdie** — 168K  
-- **Regency Cake Stand** — 143K  
-- **White Hanging Heart** — 100K  
+- **Paper Craft Little Birdie** - 168K  
+- **Regency Cake Stand** - 143K  
+- **White Hanging Heart** - 100K  
 
 ➡️ These items are ideal for **bundle promotions and cross-selling**.
 
 ---
 
 ## 📌 3. Sales Timing (Hourly Trends)
-- Peak revenue between **10 AM – 2 PM**, generating **2.1M+**  
+- Peak revenue between **10 AM - 2 PM**, generating **2.1M+**  
 - Sales drop significantly after **6 PM**  
 - Insight: Off-peak hours are good for **inventory updates & system operations**
 
@@ -95,7 +95,7 @@ Strong association rules discovered:
 
 # 📊 Dashboards
 
-## 🟥 Dashboard 1 — Retail Performance Overview
+## 🟥 Dashboard 1 - Retail Performance Overview
 Includes:
 - Total Revenue  
 - Total Quantity Sold  
@@ -110,7 +110,7 @@ Includes:
 
 ---
 
-## 🟦 Dashboard 2 — Basket Analysis & Customer Segmentation
+## 🟦 Dashboard 2 - Basket Analysis & Customer Segmentation
 Includes:
 - BasketBand segmentation  
 - Count of invoices by basket size  
