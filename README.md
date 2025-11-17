@@ -16,25 +16,6 @@ This project analyzes **541K retail transactions** to uncover:
 
 ---
 
-## 📁 Project Structure
-retail-basket-insights/
-│
-├── data/
-│ └── sample_online_retail.csv
-│
-├── images/
-│ ├── retail_dashboard_overview.png
-│ ├── retail_dashboard_basket.png
-│
-├── notebooks/
-│ └── market_basket_analysis.ipynb
-│
-└── powerbi/
-└── Online_Retail_Market_Basket.pbix
-
-
----
-
 # 🧠 Key Business Insights
 
 ## 📌 1. Revenue & Customer Behavior
